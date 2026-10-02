@@ -64,8 +64,8 @@ A comprehensive Microsoft Access database system designed to manage faculty peer
 ![FAQ Queries](screenshots/faq_queries.png)
 
 ## Files
-- `Group 7 Manual.pdf` — Full user manual with setup and usage instructions
-- `peer_review.accdb` — Microsoft Access database file (if included)
+- `Databse Manual.pdf` — Full user manual with setup and usage instructions
+- `Dabase.accdb` — Microsoft Access database file (if included)
 - `screenshots/` — System screenshots
 
 ## Course
