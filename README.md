@@ -46,23 +46,6 @@ A comprehensive Microsoft Access database system designed to manage faculty peer
 - Creating reports for data analysis
 - Managing user anonymity and data privacy in database design
 
-## Screenshots
-
-### Quick Access Menu
-![Quick Access Menu](screenshots/quick_access_menu.png)
-
-### Schedule New Visit
-![Schedule New Visit](screenshots/schedule_visit.png)
-
-### Submit Evaluation
-![Submit Evaluation](screenshots/submit_evaluation.png)
-
-### Navigation Menu
-![Navigation Menu](screenshots/navigation_menu.png)
-
-### Frequently Asked Queries
-![FAQ Queries](screenshots/faq_queries.png)
-
 ## Files
 - `Databse Manual.pdf` — Full user manual with setup and usage instructions
 - `Dabase.accdb` — Microsoft Access database file (if included)
